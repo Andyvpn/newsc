@@ -226,7 +226,7 @@ License_Key=$(cat /etc/${Auther}/license.key)
 export Nama_Issued_License=$( curl -s https://${Server_URL}/validated-registered-license-key.txt | grep -w $License_Key | cut -d ' ' -f 7-100 | tr -d '\r' | tr -d '\r\n')
 clear
 echo -e "\033[0;34m┌─────────────────────────────────────────────────────┐${NC}"
-echo -e "\033[0;34m│                  ${BIWhite}${UWhite}Server Informations${NC}"
+echo -e "\033[0;34m│                  ${BIWhite}${UWhite}SCRIPT BY ANDYYUDA${NC}"
 echo -e "\033[0;34m│"
 echo -e "\033[0;34m│  ${BIGREEN}Use Core        :  ${BIPurple}XRAY-CORE${NC}"
 echo -e "\033[0;34m│  ${BIGREEN}Current Domain  :  ${BIPurple}$(cat /etc/xray/domain)${NC}"
