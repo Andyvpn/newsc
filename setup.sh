@@ -442,7 +442,7 @@ wget -q -O /usr/bin/menu-ssh "https://raw.githubusercontent.com/kenDevXD/1/main/
 wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/kenDevXD/1/main/menu-bckp-github.sh"
 #wget -q -O /usr/bin/bckp "https://raw.githubusercontent.com/kenDevXD/1/main/bckpbot.sh"
 wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/kenDevXD/1/main/usernew.sh"
-wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kenDevXD/1/main/menu.sh"
+wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/Andyvpn/newsc/main/menu.sh"
 wget -q -O /usr/bin/wbm "https://raw.githubusercontent.com/kenDevXD/1/main/webmin.sh"
 wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/kenDevXD/1/main/xp.sh"
 #wget -q -O /usr/bin/update "https://raw.githubusercontent.com/kenDevXD/1/main/update.sh"
